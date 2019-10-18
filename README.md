@@ -1,2 +1,2 @@
 # park_ecp
-analysis of parking data and e-mobility
+Project Goal: Analysis of parking data to plan future e-mobility infrasturcture
