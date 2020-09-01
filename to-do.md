@@ -18,4 +18,5 @@ date: "2019-10-11 17:09"
  
  # Note for analysis
  - What are the difference of parking space use in open space and underground (...the underground parking take more energy and resources)..
+ - spatial location of parking space ----- shifting location may promote less car in the target area of interest....there proposing new ecp location has to take care on this issue..
  
