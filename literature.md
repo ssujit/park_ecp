@@ -21,6 +21,11 @@ date: "from Octorber 2019"
 - [Prioritizing the Chicken or Egg? Electric Vehicle Purchase and Charging Infrastructure Subsidies in Germany](https://www.cogitatiopress.com/politicsandgovernance/article/view/3025/3025)
 
 
+# Postcast 'Reinventing Parking'
+
+[Parking change for better public space]https://www.reinventingparking.org/2018/09/parking-public-space.html
+
+
 
 <br> How? </br>
 1. good ground truth data from crowdsourcing,
